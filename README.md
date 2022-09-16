@@ -1,7 +1,7 @@
 
 Software engineer focused on developer tools and developer experience.
 
-Currently hacking away with Grain and ReScript. 
+Big Rust fan, currently hacking away at Grain. 
 
 Huge nerd for surfing.
 
