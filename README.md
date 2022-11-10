@@ -1,9 +1,4 @@
-
-Software engineer focused on developer tools and developer experience.
-
-Big Rust fan, currently hacking away at Grain. 
-
-Huge nerd for surfing.
+Software engineer @ CyberBrokers | Big Rust fan | Huge nerd for surfing
 
 ---
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brendisurfs&count_private=true&theme=tokyonight&showicons=true)]()
