@@ -1,2 +1,2 @@
-Software engineer @ CyberBrokers | Big Rust fan | Huge nerd for surfing
+Software engineer | Big Rust fan | Huge nerd for surfing
 
