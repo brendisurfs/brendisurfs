@@ -1,2 +1,2 @@
-Software engineer | Big Rust fan | Huge nerd for surfing
+Software engineer | Rust fan | Surfer
 
