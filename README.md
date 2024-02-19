@@ -1,2 +1,2 @@
-Software engineer | Rust fan | Surfer
+Software Engineer | Rust | Surfing
 
