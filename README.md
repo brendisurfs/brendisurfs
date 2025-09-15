@@ -1,2 +1,5 @@
-Software Engineer, currently at CU Boulder getting a Bachelors in Computer Science.
-I like things that go fast. 
+- Software Engineer.
+- Studying Computer Science at CU Boulder.
+- Currently really digging Swift. 
+- I like things that go fast.
+
