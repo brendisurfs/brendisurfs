@@ -1,6 +1,14 @@
-## About Me
+# About Me
 
-Software engineer with 4+ years of production experience across the stack, from UI to hardware.
+<h3 align="left">
+I build things around hard-tech and data  
+</h3>
+
+
+- Currently looking for a job
+- Love things that have to do with motorcycles
+- Write about various software discoveries and passions on my website blog (making changes, be back soon)
+- You can find me on [LinkedIn](https://www.linkedin.com/in/brendancreates/)
 
 Working on an open source race telemetry ecosystem and a custom Discord-based scheduling platform for Overwatch coaches.
 
