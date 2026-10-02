@@ -7,7 +7,7 @@
 
 - Currently looking for a job
 - Love things that have to do with motorcycles
-- Use a 240hz monitor and warm up my day with Kovaaks just to check of Jira tickets faster
+- Use a 240hz monitor and warm up my day with Kovaaks just to check off Jira tickets faster
 - Write about various software discoveries and passions on my website blog (making changes, be back soon)
 - You can find me on [LinkedIn](https://www.linkedin.com/in/brendancreates/)
 
