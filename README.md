@@ -1,7 +1,7 @@
 # About Me
 
 <h3 align="left">
-I build things around hard-tech and data  
+  I enjoy working on things around hardware and data processing
 </h3>
 
 
