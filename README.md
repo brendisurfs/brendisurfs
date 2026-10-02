@@ -10,8 +10,6 @@
 - Write about various software discoveries and passions on my website blog (making changes, be back soon)
 - You can find me on [LinkedIn](https://www.linkedin.com/in/brendancreates/)
 
-Working on an open source race telemetry ecosystem and a custom Discord-based scheduling platform for Overwatch coaches.
-
 ### Toolkit 
 
 ![Rust](https://img.shields.io/badge/-Rust-f64d01?style=flat-square&logo=rust&logoColor=white)
