@@ -26,5 +26,6 @@
 - **[Open Race Telemetry](https://github.com/brendisurfs/OpenRaceTelemetry)** - An open-source race telemetry ecosystem
 
 ## Past Projects
+- **[AC-Lib](https://github.com/brendisurfs/ac-lib)** - A Rust library for reading live telemetry from Assetto Corsa
 - **[Hearfield](https://apps.apple.com/us/app/hearfield/id6755408472)** - A lightweight, hardware-calibrated decibel meter for iOS
 - **[ORBX Batch Export](https://github.com/brendisurfs/OrbxBatchExport)** - A batch exporting utility in Houdini for Octane's ORBX format
